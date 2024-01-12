@@ -19,8 +19,8 @@ const App = () => {
   // Placeholder photos array
   const photos = [
     { url: process.env.PUBLIC_URL + './images/June10th.PNG', month: 'June', date: '2023-06-10', description: 'Our first words to eachother on discord. I love you' },
-    { url: './images/July3rd.PNG', month: 'July', date: '2023-07-03', description: 'NERF ROCKET LAUNCHER, Ill bite you.' },
-    { url: './images/July9th.PNG', month: 'July', date: '2023-07-09', description: 'Cute Giggly girly hehehe.' },
+    { url: '/images/July3rd.PNG', month: 'July', date: '2023-07-03', description: 'NERF ROCKET LAUNCHER, Ill bite you.' },
+    { url: 'images/July9th.PNG', month: 'July', date: '2023-07-09', description: 'Cute Giggly girly hehehe.' },
     { url: './images/July11th.PNG', month: 'July', date: '2023-07-11', description: 'First time I fell asleep on da camera, FARM GAME FARM GAME.' },
     { url: './images/firstTimeAsleep.jpg', month: 'July', date: '2023-07-12', description: 'Sleepy head.' },
     { url: './images/July13th.PNG', month: 'July', date: '2023-07-13', description: 'We still need to watch the stars together.' },
