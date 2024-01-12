@@ -29,7 +29,7 @@ const App = () => {
     { url: './BigWam/July17th.PNG', month: 'July', date: '2023-07-17', description: 'The night we made it oficial <3.' },
     { url: './BigWam/July18th.jpg', month: 'July', date: '2023-07-18', description: 'Nerd.' },
     { url: './BigWam/July19th.jpg', month: 'July', date: '2023-07-19', description: 'Sleepy eepy head, I miss da doodles.' },
-    { url: './BigWam/July20th.jpg', month: 'July', date: '2023-07-20', description: 'Nervous study sess, Nerd.' },
+    { url: './BigWam/images/July20th.jpg', month: 'July', date: '2023-07-20', description: 'Nervous study sess, Nerd.' },
     { url: './images/July21st.PNG', month: 'July', date: '2023-07-21', description: 'I can\'t believe you hung up on me smh.' },
     { url: './images/July27th.PNG', month: 'July', date: '2023-07-27', description: 'The first time you told me to go fuck somebody hehehehehe.' },
     { url: './images/July28th.PNG', month: 'July', date: '2023-07-28', description: 'SPIN DUCK' },
