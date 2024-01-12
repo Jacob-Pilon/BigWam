@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BigWam/static/css/main.e6c13ad2.css",
+    "main.js": "/BigWam/static/js/main.a191778f.js",
+    "index.html": "/BigWam/index.html",
+    "main.e6c13ad2.css.map": "/BigWam/static/css/main.e6c13ad2.css.map",
+    "main.a191778f.js.map": "/BigWam/static/js/main.a191778f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a191778f.js"
+  ]
+}
