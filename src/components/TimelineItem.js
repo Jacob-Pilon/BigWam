@@ -37,7 +37,7 @@ const TimelineItem = ({ photo, onHover }) => {
         <ModalOverlay onClick={handleCloseModal}>
           <ModalContent>
             <ModalImageContainer>
-              <img src={process.env.PUBLIC_URL + photo.url} alt={`Photo taken on ${photo.date}`} />
+              <img src={photo.url} alt={`Photo taken on ${photo.date}`} />
             </ModalImageContainer>
             <ModalInfoContainer>
               <DateTag>{photo.date}</DateTag>
